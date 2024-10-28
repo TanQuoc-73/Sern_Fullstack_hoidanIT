@@ -16,7 +16,11 @@
     "dotenv": "^8.6.0",
     "ejs": "^3.1.5",
     "express": "^4.21.1",
-    "nodemon": "^3.1.7"
+    "mysql": "github:mysqljs/mysql",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.7",
+    "sequelize": "^6.37.5",
+    "sequelize-cli": "^6.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0"
